@@ -20,4 +20,4 @@ GitHub 统计信息小卡片（来自[GitHub Readme Stats](https://github.com/an
 
 ## 一些链接
 
-[另一个个人首页（写的东西差不多）](https://www.bingxuan.org)    [新建好没啥东西的博客（虽然主题自己写了个）](https://blog.bing-xuan.cn)   [Bilibili](https://space.bilibili.com/286707275)   [Twitter](https://twitter.com/bingxuanbaka)
+[另一个个人首页（写的东西差不多）](https://www.bingxuan.org)   [Bilibili](https://space.bilibili.com/286707275)   [Twitter](https://twitter.com/bingxuanbaka)
