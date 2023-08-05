@@ -16,7 +16,7 @@ GitHub 统计信息小卡片（来自[GitHub Readme Stats](https://github.com/an
 
 ![Bingxuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingxuanbaka)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingxuanowo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingxuanbaka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 一些链接
 
